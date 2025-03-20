@@ -126,16 +126,16 @@
           </mxCell>
         </object>
         <mxCell id="TeiEiH09iCQTftUvuPfI-45" value="WIKI Search" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;shadow=0;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="969" y="733" width="152" height="87" as="geometry" />
+          <mxGeometry x="1152" y="733" width="152" height="87" as="geometry" />
         </mxCell>
         <mxCell id="TeiEiH09iCQTftUvuPfI-46" value="Google Search" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;shadow=0;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="776" y="728" width="143" height="87" as="geometry" />
+          <mxGeometry x="959" y="728" width="143" height="87" as="geometry" />
         </mxCell>
         <mxCell id="TeiEiH09iCQTftUvuPfI-47" value="WhatsApp" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;shadow=0;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="554" y="723" width="175" height="87" as="geometry" />
+          <mxGeometry x="737" y="723" width="175" height="87" as="geometry" />
         </mxCell>
         <mxCell id="TeiEiH09iCQTftUvuPfI-48" value="Insta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;shadow=0;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
-          <mxGeometry x="372" y="723" width="133" height="84" as="geometry" />
+          <mxGeometry x="555" y="723" width="133" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
