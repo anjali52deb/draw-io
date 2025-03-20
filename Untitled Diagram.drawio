@@ -6,7 +6,7 @@
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="TeiEiH09iCQTftUvuPfI-18" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;rounded=0;" vertex="1" connectable="0" parent="1">
+        <mxCell id="TeiEiH09iCQTftUvuPfI-18" value="" style="group;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;rounded=1;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="736" y="334" width="275" height="138" as="geometry" />
         </mxCell>
         <mxCell id="TeiEiH09iCQTftUvuPfI-15" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;glass=0;shadow=0;fontFamily=Helvetica;fillStyle=auto;strokeWidth=2;perimeterSpacing=1;imageAspect=0;fontSize=14;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="TeiEiH09iCQTftUvuPfI-18">
@@ -15,13 +15,13 @@
         <mxCell id="TeiEiH09iCQTftUvuPfI-17" value="&lt;div&gt;AI Agent&lt;/div&gt;&lt;div&gt;(xxxx)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontColor=#1D3557;fontSize=30;fontStyle=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="TeiEiH09iCQTftUvuPfI-18">
           <mxGeometry x="41.800000000000004" y="46.40707964601769" width="198.00000000000003" height="48.84955752212389" as="geometry" />
         </mxCell>
-        <mxCell id="TeiEiH09iCQTftUvuPfI-22" value="Input - Prompt Template" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fillStyle=solid;shadow=1;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="TeiEiH09iCQTftUvuPfI-22" value="Input - Prompt Template" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fillStyle=solid;shadow=1;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="440" y="198" width="215" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="TeiEiH09iCQTftUvuPfI-23" value="Output - Prompt Template" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fillStyle=solid;shadow=1;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="TeiEiH09iCQTftUvuPfI-23" value="Output - Prompt Template" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fillStyle=solid;shadow=1;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="98" y="291" width="215" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="TeiEiH09iCQTftUvuPfI-24" value="User Interface" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fillStyle=solid;shadow=1;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="TeiEiH09iCQTftUvuPfI-24" value="User Interface" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fillStyle=solid;shadow=1;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="91" y="88" width="215" height="119" as="geometry" />
         </mxCell>
         <object label="" text="Input - Prompt Template" id="TeiEiH09iCQTftUvuPfI-25">
@@ -56,7 +56,7 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="TeiEiH09iCQTftUvuPfI-31" value="&lt;div&gt;LLMs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. OpenAI&lt;/div&gt;&lt;div&gt;2. Gemini&lt;/div&gt;&lt;div&gt;3. HF&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fillStyle=solid;shadow=1;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="TeiEiH09iCQTftUvuPfI-31" value="&lt;div&gt;LLMs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. OpenAI&lt;/div&gt;&lt;div&gt;2. Gemini&lt;/div&gt;&lt;div&gt;3. HF&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fillStyle=solid;shadow=1;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1217" y="360" width="255" height="184" as="geometry" />
         </mxCell>
         <mxCell id="TeiEiH09iCQTftUvuPfI-32" value="Personal Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fillStyle=solid;shadow=1;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
@@ -95,10 +95,10 @@
         <mxCell id="TeiEiH09iCQTftUvuPfI-37" value="Vector Store" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;strokeColor=none;fontSize=23;fontStyle=1;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="TeiEiH09iCQTftUvuPfI-38">
           <mxGeometry x="40" y="16" width="111" height="135" as="geometry" />
         </mxCell>
-        <mxCell id="TeiEiH09iCQTftUvuPfI-39" value="Memory" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fillStyle=solid;shadow=1;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="TeiEiH09iCQTftUvuPfI-39" value="Memory" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fillStyle=solid;shadow=1;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="433" y="387" width="215" height="82" as="geometry" />
         </mxCell>
-        <mxCell id="TeiEiH09iCQTftUvuPfI-40" value="Tools" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fillStyle=solid;shadow=1;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="TeiEiH09iCQTftUvuPfI-40" value="Tools" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#A8DADC;strokeColor=#457B9D;fillStyle=solid;shadow=1;labelBackgroundColor=none;fontColor=#1D3557;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="767" y="574" width="275" height="94" as="geometry" />
         </mxCell>
         <object label="" text="Input - Prompt Template" id="TeiEiH09iCQTftUvuPfI-41">
@@ -125,17 +125,17 @@
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="TeiEiH09iCQTftUvuPfI-45" value="WIKI Search" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=solid;shadow=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1406" y="710" width="152" height="87" as="geometry" />
+        <mxCell id="TeiEiH09iCQTftUvuPfI-45" value="WIKI Search" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;shadow=0;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="969" y="733" width="152" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="TeiEiH09iCQTftUvuPfI-46" value="Google Search" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=solid;shadow=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="1056" y="710" width="143" height="87" as="geometry" />
+        <mxCell id="TeiEiH09iCQTftUvuPfI-46" value="Google Search" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;shadow=0;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="776" y="728" width="143" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="TeiEiH09iCQTftUvuPfI-47" value="WhatsApp" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=solid;shadow=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="674" y="710" width="175" height="87" as="geometry" />
+        <mxCell id="TeiEiH09iCQTftUvuPfI-47" value="WhatsApp" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;shadow=0;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="554" y="723" width="175" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="TeiEiH09iCQTftUvuPfI-48" value="Insta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;fillStyle=solid;shadow=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
-          <mxGeometry x="364" y="710" width="133" height="84" as="geometry" />
+        <mxCell id="TeiEiH09iCQTftUvuPfI-48" value="Insta" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1;fillColor=#f8cecc;strokeColor=#b85450;fillStyle=solid;shadow=0;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="372" y="723" width="133" height="84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
