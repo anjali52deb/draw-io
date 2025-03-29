@@ -6,8 +6,10 @@
           <mxCell />
         </object>
         <mxCell id="1" parent="0" />
-        <mxCell id="TeiEiH09iCQTftUvuPfI-24" value="User Interface" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=30;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;shadow=1;labelBackgroundColor=none;arcSize=21;strokeWidth=5;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="813" y="137" width="759" height="119" as="geometry" />
+        <mxCell id="TeiEiH09iCQTftUvuPfI-24" value="User Interface" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=30;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fillStyle=auto;shadow=1;labelBackgroundColor=none;arcSize=21;strokeWidth=5;sketch=1;curveFitting=1;jiggle=2;movableLabel=1;" parent="1" vertex="1">
+          <mxGeometry x="519" y="-111" width="1082" height="367" as="geometry">
+            <mxPoint x="3" y="-128" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TeiEiH09iCQTftUvuPfI-31" value="&lt;div&gt;&lt;font&gt;LLMs&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. OpenAI - GPT-4o&lt;/div&gt;&lt;div&gt;2. Gemini&lt;/div&gt;&lt;div&gt;3. HF&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=30;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;shadow=1;labelBackgroundColor=none;sketch=1;curveFitting=1;jiggle=2;strokeWidth=5;imageAspect=1;snapToPoint=0;fixDash=0;metaEdit=1;movableLabel=0;resizeWidth=0;resizeHeight=0;sketchStyle=rough;" parent="1" vertex="1">
           <mxGeometry x="123" y="462" width="459" height="239" as="geometry" />
@@ -46,7 +48,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BFHTQyS8qlT6twQpDue1-33" value="&lt;font&gt;USER&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;strokeWidth=5;fillColor=#f8cecc;strokeColor=#b85450;fixDash=0;movableLabel=1;fontStyle=1;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="408" y="91" width="100" height="155" as="geometry">
+          <mxGeometry x="229" y="62" width="100" height="155" as="geometry">
             <mxPoint x="-5" y="-202" as="offset" />
           </mxGeometry>
         </mxCell>
@@ -107,7 +109,7 @@
         </mxCell>
         <object label="&lt;font&gt;AI Tools&lt;/font&gt;" id="TeiEiH09iCQTftUvuPfI-40">
           <mxCell style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Comic Sans MS;fontSize=30;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=auto;shadow=1;labelBackgroundColor=none;strokeWidth=5;sketch=1;curveFitting=1;jiggle=2;imageAspect=1;snapToPoint=0;fixDash=0;metaEdit=1;movableLabel=0;resizeWidth=0;resizeHeight=0;sketchStyle=rough;arcSize=15;" parent="1" vertex="1">
-            <mxGeometry x="1197" y="506" width="275" height="153" as="geometry" />
+            <mxGeometry x="1297" y="422" width="275" height="153" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="BFHTQyS8qlT6twQpDue1-7" value="" style="endArrow=classic;startArrow=classic;endFill=1;startFill=1;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;strokeWidth=6;fillColor=#dae8fc;strokeColor=#6c8ebf;flowAnimation=0;exitX=0.568;exitY=0.024;exitDx=0;exitDy=0;exitPerimeter=0;snapToPoint=1;arcSize=50;backgroundOutline=1;sketchStyle=rough;entryX=0.507;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;curved=1;fontSize=30;" edge="1" parent="1" source="BFHTQyS8qlT6twQpDue1-8" target="D7hKkzI2UtDsNL6RZgkP-2">
