@@ -172,7 +172,7 @@
           <mxGeometry x="780" y="1220" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c22bLodAKcmqXCVV3KPD-14" value="&lt;div&gt;Create a python program called &quot;LinkedIN_Following.py&quot;&lt;/div&gt;&lt;div&gt;follow activities mentioned in this diagram&lt;/div&gt;&lt;div&gt;all activities should happens within that python file.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212)); color: rgb(0, 0, 0);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(0, 0, 0); background-color: rgb(255, 99, 28);&quot;&gt;Create a gap or sleep time (random) between two LinkedIN API call&lt;br&gt;It should be between 30 to 60 seconds and should not be fixed time.&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=13;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="170" y="1330" width="470" height="130" as="geometry" />
+          <mxGeometry x="235" y="1360" width="585" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
