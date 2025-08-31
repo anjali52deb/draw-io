@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.1.1">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0" version="28.1.2">
   <diagram name="Page-1" id="1qW2JOKXYpLRvEJQn6gx">
     <mxGraphModel dx="1240" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="2400" math="0" shadow="0">
       <root>
@@ -294,32 +294,59 @@
         <mxCell id="OOZ3sw9D2z1hA0jKhEQe-8" value="&lt;div&gt;After reading its Prompt, Google Content creation model will generate (Image or Reel/Video) content for social media platform.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Input or User Prompt template be good enough for Gemini Veo3 or similar tools&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;LLM Models needs to create &quot;image&quot; or &quot;small reel/video&quot; to convey our points. If needed it will add text which is also part of Input Prompt&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Once Content creation done, it will save this to Google Drive&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;So, summary:&lt;br&gt;INPUT: List of Prompts&lt;br&gt;PROCESS: generate_media.py (python program)&lt;br&gt;OUTPUT: all media saved in Google Drive&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Helvetica;fontSize=13;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="500" y="2600" width="640" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="fcaxlveCq4bWjW6Ckfn2-3" value="this should take only text" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="fcaxlveCq4bWjW6Ckfn2-3" value="this should take only text" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="410" y="3060" width="360" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fcaxlveCq4bWjW6Ckfn2-4" value="Name Your Topic" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;fontColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="fcaxlveCq4bWjW6Ckfn2-4" value="Name Your Topic" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;fontColor=#007FFF;" parent="1" vertex="1">
           <mxGeometry x="200" y="3060" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fcaxlveCq4bWjW6Ckfn2-5" value="this should take only number" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="fcaxlveCq4bWjW6Ckfn2-5" value="this should take only number" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="410" y="3111" width="190" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fcaxlveCq4bWjW6Ckfn2-6" value="Number of Card per topic" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;fontColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="fcaxlveCq4bWjW6Ckfn2-6" value="Number of Card per topic" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=14;fontColor=#007FFF;" parent="1" vertex="1">
           <mxGeometry x="200" y="3111" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fcaxlveCq4bWjW6Ckfn2-8" value="Submit" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="fcaxlveCq4bWjW6Ckfn2-8" value="Submit" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=14;fontColor=#007FFF;" parent="1" vertex="1">
           <mxGeometry x="650" y="3160" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="fcaxlveCq4bWjW6Ckfn2-9" value="Flash Card maker" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=24;fontColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="fcaxlveCq4bWjW6Ckfn2-9" value="Flash Card maker" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=24;fontColor=#007FFF;" parent="1" vertex="1">
           <mxGeometry x="320" y="2960" width="310" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fcaxlveCq4bWjW6Ckfn2-11" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="160" y="2946" width="700" height="294" as="geometry" />
+        <mxCell id="fcaxlveCq4bWjW6Ckfn2-11" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="155" y="2928" width="700" height="294" as="geometry" />
         </mxCell>
-        <mxCell id="fcaxlveCq4bWjW6Ckfn2-12" value="&lt;span style=&quot;color: rgb(95, 99, 104); font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Enter a topic or a list of terms and definitions to generate flashcards using &lt;b&gt;Gemini&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+        <mxCell id="fcaxlveCq4bWjW6Ckfn2-12" value="&lt;span style=&quot;color: rgb(95, 99, 104); font-size: medium; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Enter a topic or a list of terms and definitions to generate flashcards using &lt;b&gt;Gemini&lt;/b&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="1" vertex="1">
           <mxGeometry x="200" y="3000" width="640" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fcaxlveCq4bWjW6Ckfn2-14" value="Response with number of Cards" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="160" y="3270" width="700" height="320" as="geometry" />
+        <mxCell id="fcaxlveCq4bWjW6Ckfn2-14" value="Response with number of Cards" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=27;" parent="1" vertex="1">
+          <mxGeometry x="160" y="3270" width="700" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="KLShJ7-2JFt8tjImZZFA-1" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=17;arcSize=3;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="3570" width="330" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="KLShJ7-2JFt8tjImZZFA-2" value="&lt;i&gt;&lt;span style=&quot;color: rgb(255, 81, 26);&quot;&gt;&amp;lt;Standard Chat with File window&amp;gt;&lt;/span&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=17;arcSize=2;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="3570" width="540" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="KLShJ7-2JFt8tjImZZFA-3" value="&lt;i&gt;&lt;span style=&quot;color: rgb(255, 81, 26);&quot;&gt;&amp;lt;standard user prompt&amp;gt;&lt;/span&gt;&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=17;arcSize=2;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="450" y="3920" width="540" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLShJ7-2JFt8tjImZZFA-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Manage your Vector DB&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=17;arcSize=3;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="125" y="3570" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KLShJ7-2JFt8tjImZZFA-5" value="Load New File Option" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=17;arcSize=3;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="125" y="3810" width="320" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="KLShJ7-2JFt8tjImZZFA-6" value="&lt;div&gt;List of files already loaded.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(255, 0, 0);&quot;&gt;&lt;i&gt;&amp;lt;refresh this part at the time of window loading or refresh again when new files uploaded&amp;gt;&lt;/i&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=17;arcSize=3;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="122.5" y="3620" width="320" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KLShJ7-2JFt8tjImZZFA-7" value="Delete All" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=17;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="322.5" y="3770" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KLShJ7-2JFt8tjImZZFA-8" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Title: Chat With Your File&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Powered by Gemini and Pinecode&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=17;arcSize=2;fontColor=#007FFF;" vertex="1" parent="1">
+          <mxGeometry x="120" y="3527" width="870" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KLShJ7-2JFt8tjImZZFA-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#0000FF;strokeColor=#6c8ebf;fillStyle=solid;" vertex="1" parent="1">
+          <mxGeometry x="950" y="3532" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
