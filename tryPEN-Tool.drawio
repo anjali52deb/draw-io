@@ -342,7 +342,7 @@
         <mxCell id="KLShJ7-2JFt8tjImZZFA-7" value="Delete All" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=17;fontColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="322.5" y="3770" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KLShJ7-2JFt8tjImZZFA-8" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Title: Chat With Your File&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Powered by Gemini and Pinecode&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=17;arcSize=2;fontColor=#007FFF;" vertex="1" parent="1">
+        <mxCell id="KLShJ7-2JFt8tjImZZFA-8" value="&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Title: Chat With Your File&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Powered by Gemini and Pinecone&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=17;arcSize=2;fontColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="120" y="3527" width="870" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KLShJ7-2JFt8tjImZZFA-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fillColor=#0000FF;strokeColor=#6c8ebf;fillStyle=solid;" vertex="1" parent="1">
