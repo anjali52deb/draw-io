@@ -319,7 +319,7 @@
           <mxGeometry x="200" y="3000" width="640" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fcaxlveCq4bWjW6Ckfn2-14" value="Response with number of Cards" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=27;" parent="1" vertex="1">
-          <mxGeometry x="160" y="3270" width="700" height="150" as="geometry" />
+          <mxGeometry x="155" y="3222" width="700" height="150" as="geometry" />
         </mxCell>
         <mxCell id="KLShJ7-2JFt8tjImZZFA-1" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=17;arcSize=3;fontColor=#007FFF;" vertex="1" parent="1">
           <mxGeometry x="120" y="3570" width="330" height="390" as="geometry" />
