@@ -348,7 +348,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K7zDImuocd-my43ZkWln-279" parent="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Comic Sans MS;fontSize=18;fontStyle=3;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#FF0000;" value="Picture - 1" vertex="1">
-          <mxGeometry height="30" width="142" x="722" y="90" as="geometry" />
+          <mxGeometry height="30" width="142" x="783" y="53" as="geometry" />
         </mxCell>
         <mxCell id="K7zDImuocd-my43ZkWln-288" connectable="0" parent="1" style="group" value="" vertex="1">
           <mxGeometry height="117.5" width="201" x="259" y="1228" as="geometry" />
@@ -480,9 +480,6 @@
             <mxGeometry height="36" width="28" x="96" y="2886.000048828125" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="arch-note-ext-2026" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=left;spacingLeft=6;fontFamily=Comic Sans MS;fontSize=12;verticalAlign=top;" value="&lt;div&gt;&lt;b&gt;Also in stack&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size:11px;line-height:130%;&quot;&gt;· Tavily Search (AI Scout, Web Research)&lt;br&gt;· Gmail API + Google OAuth (Gmail Intel)&lt;br&gt;· SMTP / Hostinger (digest + contact form)&lt;br&gt;· GitHub Code Mining — POST /tools/github-code-mining (&lt;i&gt;/api/tools/…&lt;/i&gt; alias)&lt;br&gt;· &lt;i&gt;frontend/config.js&lt;/i&gt; — localhost:10000 vs Render&lt;br&gt;· Render secrets (&lt;i&gt;/etc/secrets/&lt;/i&gt;)&lt;br&gt;· Ops: GET /health, GET /version; sample GET /agent/protected&lt;/div&gt;" vertex="1">
-          <mxGeometry height="155" width="280" x="1320" y="734" as="geometry" />
-        </mxCell>
         <mxCell id="qqJqyoNwrkFHDrwR38Sx-37" parent="1" style="html=1;dashed=0;whiteSpace=wrap;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Comic Sans MS;fontSize=13;fontStyle=1;fillColor=none;strokeColor=#6c8ebf;fillStyle=auto;rounded=1;verticalAlign=top;strokeWidth=2;" value="" vertex="1">
           <mxGeometry height="76" width="220" x="733" y="355" as="geometry" />
         </mxCell>
